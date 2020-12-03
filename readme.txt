@@ -1,3 +1,3 @@
 Git is a very distributed version control system.
 Git is free software.
-Git is useful.
+Git is so useful.
